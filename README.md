@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on ... "environment aware manipulation"
+- I hit a release milestone for [lumber](http://github.com/pinkwerks/lumber) "procedural wood for the modern builder"
 - I hit a release mileston for [camflex](http://github.com/pinkwerks/camflex) (predicts lens distortion parameters for motion picture camera's using their physical characteristics.)
 - 🌱 I’m currently learning ...
 ComfyUI and MLOPs
